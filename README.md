@@ -1,6 +1,6 @@
 # 👨‍💻 Hi there, I'm Peri Hidayat — Flutter Developer
 <pre>
-💻 I am mainly a Flutter Developer  
+💻 I am a Flutter Developer  
 📱 Passionate about building cross-platform mobile apps  
 🎓 I have a Bachelors in Computer Science  
 📝 I have a strong interest in Mobile App Development and UI/UX Design
