@@ -3,7 +3,7 @@
 💻 Flutter Developer
 📱 Specialized in building modern, scalable, and user-friendly mobile applications with Flutter
 🎓 Computer Science Graduate with a strong passion for software engineering and mobile technology
-🚀 Experienced in Flutter, Dart, Riverpod, GetX, Firebase, REST API Integration, and Clean Architecture
+🚀 Experienced in Flutter, Dart, Riverpod, GetX, Provider, Firebase, Laravel, REST API Integration, and Clean Architecture
 🌱 Continuously learning advanced mobile architecture, performance optimization, and software design principles
 🎯 Focused on delivering high-quality digital products that solve real-world problems
 🔧 Passionate about writing clean, maintainable code and creating seamless user experiences
