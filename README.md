@@ -1,13 +1,14 @@
 # 👨‍💻 Hi there, I'm Peri Hidayat — Flutter Developer
 <pre>
-💻 I am a Flutter Developer  
-📱 Passionate about building cross-platform mobile apps  
-🎓 I have a Bachelors in Computer Science  
-📝 I have a strong interest in Mobile App Development and UI/UX Design
-🌱 Learning advanced Flutter architecture and performance optimization  
-🌟 Main language: Dart 🚀  
-🚩 Interested in crafting pixel-perfect mobile interfaces and scalable app systems  
-😃 I look forward to collaborating on impactful mobile projects
+💻 Flutter Developer
+📱 Specialized in building modern, scalable, and user-friendly mobile applications with Flutter
+🎓 Computer Science Graduate with a strong passion for software engineering and mobile technology
+🚀 Experienced in Flutter, Dart, Riverpod, GetX, Firebase, REST API Integration, and Clean Architecture
+🌱 Continuously learning advanced mobile architecture, performance optimization, and software design principles
+🎯 Focused on delivering high-quality digital products that solve real-world problems
+🔧 Passionate about writing clean, maintainable code and creating seamless user experiences
+🤝 Open to collaborations, freelance projects, internships, and full-time opportunities
+✨ Committed to continuous growth, innovation, and building technology that makes a meaningful impact
 </pre>
 <hr>
 
